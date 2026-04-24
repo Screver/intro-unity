@@ -9,3 +9,5 @@ Kediss ma bitch ?
 <span style="color: orange">Trankill, tsb ^^</span>
 
 <span style="color: pink"> aah, ça fait plaiz ça ! ça va squatter les terrasses ce weekend ?! </span>
+
+<p style="color: orange">Ptit 20km de prévu à la Fondery des chiens, oklm, et toi ?</p>
